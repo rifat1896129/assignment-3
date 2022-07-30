@@ -1,3 +1,14 @@
-.rifat{
-    width: 850px;
+.heading{
+    position: absolute;
+    top:40%;
+    left:50%:
+
+}
+.heading p{
+    font-size: 25px;
+    color: black;
+}
+.heading h1{
+    font-size: 45px;
+    color: black;
 }
